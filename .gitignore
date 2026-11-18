@@ -1,0 +1,12 @@
+# Dependencies and generated build output
+node_modules/
+dist/
+
+# Local environment files (keep the example template)
+.env
+.env.*
+!.env.example
+
+# Local tooling output
+.vite/
+npm-debug.log*
